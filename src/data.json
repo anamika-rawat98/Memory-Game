@@ -1,0 +1,98 @@
+[
+  {
+    "value": 1,
+    "color": "red",
+    "isVisible": false,
+    "id": 1
+  },
+  {
+    "value": 5,
+    "color": "blue",
+    "isVisible": false,
+    "id": 2
+  },
+  {
+    "value": 8,
+    "color": "green",
+    "isVisible": false,
+    "id": 3
+  },
+  {
+    "value": 6,
+    "color": "purple",
+    "isVisible": false,
+    "id": 4
+  },
+  {
+    "value": 3,
+    "color": "orange",
+    "isVisible": false,
+    "id": 5
+  },
+  {
+    "value": 1,
+    "color": "yellow",
+    "isVisible": false,
+    "id": 6
+  },
+  {
+    "value": 4,
+    "color": "red",
+    "isVisible": false,
+    "id": 7
+  },
+  {
+    "value": 5,
+    "color": "fuchsia",
+    "isVisible": false,
+    "id": 8
+  },
+  {
+    "value": 2,
+    "color": "gray",
+    "isVisible": false,
+    "id": 9
+  },
+  {
+    "value": 7,
+    "color": "cyan",
+    "isVisible": false,
+    "id": 10
+  },
+  {
+    "value": 2,
+    "color": "indigo",
+    "isVisible": false,
+    "id": 11
+  },
+  {
+    "value": 8,
+    "color": "orange",
+    "isVisible": false,
+    "id": 12
+  },
+  {
+    "value": 7,
+    "color": "emerald",
+    "isVisible": false,
+    "id": 13
+  },
+  {
+    "value": 4,
+    "color": "purple",
+    "isVisible": false,
+    "id": 14
+  },
+  {
+    "value": 6,
+    "color": "green",
+    "isVisible": false,
+    "id": 15
+  },
+  {
+    "value": 3,
+    "color": "amber",
+    "isVisible": false,
+    "id": 16
+  }
+]
