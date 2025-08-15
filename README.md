@@ -16,4 +16,4 @@ An interactive memory card game built with React and Tailwind CSS, designed to p
 
 ## How it works now
 
-![Memory Game Video 1](https://github.com/anamika-rawat98/Memory-Game/raw/main/media/Screen%20Rec.mov)
+![Memory Game Video 1](https://github.com/anamika-rawat98/Memory-Game/blob/main/media/media_Screen%20Rec.gif)
