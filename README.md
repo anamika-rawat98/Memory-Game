@@ -1,12 +1,19 @@
-# React + Vite
+## Memory Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive memory card game built with React and Tailwind CSS, designed to practice component-based architecture, state management, and responsive UI development. The game challenges players to match pairs of cards and tracking number of turns to match all the cards.
 
-Currently, two official plugins are available:
+## Approach
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built the game interface using React functional components and hooks for efficient state and effect handling.
+- Implemented card shuffling, matching logic, scoring system, and timer functionality.
+- Styled the UI with Tailwind CSS to ensure a responsive, mobile-friendly design.
+- Used transitions and animations for smooth card flip effects and visual feedback.
 
-## Expanding the ESLint configuration
+## Ongoing Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Adding images in the places of colour in boxes according to movies themes.
+2. Deployment in server.
+
+## How it works now
+
+<video controls src="media/Screen Rec.mov" title="Memory Game"></video>
